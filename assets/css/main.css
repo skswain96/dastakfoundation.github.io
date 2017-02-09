@@ -5316,6 +5316,7 @@ margin-bottom: 38px;
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
+	box-shadow: 0 0 5px rgba(69, 100, 103, 0.72);
 }
 
 .video-container iframe, .video-container object, .video-container embed {
@@ -5361,7 +5362,7 @@ margin-bottom: 38px;
 	-webkit-box-align: center;
 			-ms-flex-align: center;
 					align-items: center;
-	background: rgba(202, 242, 255, 0.987);
+	background: rgba(202, 242, 255, 0.977);
 	color: #fff;
 	float: left;
 	position: relative;
@@ -5394,4 +5395,16 @@ margin-bottom: 38px;
 }
 .curtain__content img {
 	width: 20%;
+}
+.upcomingevent {
+	box-shadow: 0 0 20px 3px #5ca7bf;
+	font-family: monospace;
+	padding-left: 30px;
+	margin-left: 16px;
+	margin-right: 16px;
+}
+.upcomingevent li {
+	padding-bottom: 1em !important;
+	text-shadow: 0 0 0 black;
+	margin-right: 10px;
 }

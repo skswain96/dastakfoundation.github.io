@@ -979,7 +979,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(36, 38, 41, 0.975);
+		background: rgba(36, 38, 41, 0.86);
 		bottom: 4em;
 		left: 0;
 		max-height: calc(80vh - 4em);
@@ -1393,6 +1393,7 @@
 		-ms-user-select: none;
 		-webkit-user-select: none;
 		background: #1f2224;
+		background-color: rgba(31, 34, 36, 0.93);
 		bottom: -1em;
 		height: 5em;
 		left: 0;
